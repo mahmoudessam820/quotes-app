@@ -46,9 +46,9 @@ and format it as JSON format.
 
 ### Home page 
 
-![](public/quotes-1.jpg)
+![](./frontend/public/quotes-1.jpg)
 
 
 ### Author Quotes page 
 
-![](public/quotes-2.png)
+![](./frontend/public/quotes-2.png)
